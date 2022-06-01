@@ -6,10 +6,10 @@
                     <div class="hero__content-tag">
                         <a href="#">Розробник PHP - Laravel</a>
                     </div>
-                    <h2><a href="#">Тестове завдання</a></h2>
+                    <h2><a href="#">Блог</a></h2>
 
                     <div class="hero__content-tag">
-                        <a href="#">Udemy.com</a>
+                        <a href="#">Різні пости</a>
                     </div>
                 </div>
             </div>
